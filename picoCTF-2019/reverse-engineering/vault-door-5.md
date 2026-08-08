@@ -1,8 +1,3 @@
----
-date: 2026-08-07
-tags:
-  - reverse-engineering
----
 ## <span style="color:rgb(0, 176, 240)">Challenge Overview</span>
 - **Platform**: PicoCTF/CyLab
 - **Name**: vault-door-5
